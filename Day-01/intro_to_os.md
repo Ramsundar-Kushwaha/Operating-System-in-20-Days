@@ -61,7 +61,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 *Manages input and output operations.*
 
 
-[responsibilities of os](Operating-System-in-20-Days\images\functions_of_os.webp)
+[responsibilities of os](images\functions_of_os.webp)
 
 
 ### Types of Operating System
