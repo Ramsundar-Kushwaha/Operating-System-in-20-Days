@@ -9,11 +9,11 @@ In simple words, an Operating System helps users or applications communicate wit
 
 ### 2. Why do we need an Operating System?
 Imagine you have a computer with:<br>
-**CPU**<br>
-**RAM**<br>
-**HARD disk/SSD**<br>
-**Keyboard and Mouse**<br>
-**Monitor**
+*CPU*<br>
+*RAM*<br>
+*HARD disk/SSD*<br>
+*Keyboard and Mouse*<br>
+*Monitor*
 
 without an Operating System, managing these components and running applications would be extremely difficult.
 
@@ -38,10 +38,9 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **2. Application Software:** Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.<br>
 **3. Operating System:** Manages resources and provides services to applications.<br>
 **Hardware:** CPU, RAM, storage devices, keyboard, etc.
-<hr>
 <br><br><br>
 
-
+<hr>
 
 ### 3. Main responsibility of an Operating System
 
@@ -68,10 +67,9 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 
 ![responsibilities of os](/images/functions_of_os.webp)
-<hr>
 <br><br><br>
 
-
+<hr>
 
 ### 4. Types of Operating System
 ***Batch OS***<br>
@@ -82,10 +80,9 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 ***Multi Programming OS***<br>
 ***Multi Processing OS***<br>
 ***Multi Tasking OS***
-<hr>
 <br><br><br>
 
-
+<hr>
 
 ### 5. Goals of Operating System(OS)
 
@@ -127,10 +124,9 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 *Adapt to changing user requirements.*
 
 **Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
-<hr>
 <br><br><br>
 
-
+<hr>
 
 ### 6. Components of an Operating System
 An Operating System consists of several components that work together to manage computer hardware, software resources, and provide service to users and applications.
@@ -246,9 +242,9 @@ GUI: *Windows Desktop, Ubuntu Desktop.*
 
 **Overall architecture of OS componets**<br>
 ![os componets](/images/os_components.jpg)
-<hr>
 <br><br><br>
 
+<hr>
 
 ### Important notes:
 
