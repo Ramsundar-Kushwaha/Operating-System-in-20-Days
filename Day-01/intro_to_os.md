@@ -84,11 +84,44 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 ### 5. Goals of Operating System(OS)
 
-**Convenience**<br>
+**1. Convenience**<br>
 *Make computers easier for users to operate.*<br>
 *Provide a simple interface between users and hardware.*<br>
 *Allow users to run applications without understanding hardware details.*
 
+**2. Efficiency**<br>
+*Utilize computer resource efficiently.*<br>
+*Manage CPU, RAM, storage, and I/O devices.*<br>
+*Minimize resource wastage and improve system performance.*
+
+**Example:** CPU scheduling allows multiple processes to share CPU time efficiently.
+
+**3. Resource Management**<br>
+*Manage and distribute system resources among different programs.*<br>
+*Allocate and deallocate memory when required.*<br>
+*Coordinate access to hardware devices.*
+
+**Example:** When multiple applications are running, the OS manages their CPU and memory requirements.
+
+**4. Reliability and stability**<br>
+*Ensure the system operates correctly and consistently.*<br>
+*Handle errors and prevent application failures from affecting the entire system.*
+
+**Example:** if one application crashes, the OS should prevent it from unnecessary crashing the entire computer.
+
+**5. Security and Protection:**<br>
+*Protect system resources and user data from unauthorized access.*<br>
+*Provide authentication and access control.*<br>
+*Isolate processes to prevent unwanted interference.*
+
+**Example:** A user account password prevent unauthorized users from accessing your computer.
+
+**6. Ability to Evolve**<br>
+*Support new hardware and technologies.*<br>
+*Allow new features and functionalities to be added.*<br>
+*Adapt to changing user requirements.*
+
+**Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
 
 
 ### Important notes:
