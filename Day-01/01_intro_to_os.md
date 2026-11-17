@@ -124,6 +124,123 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
 
 
+
+### 6. Components of an Operating System
+An Operating System consists of several components that work together to manage computer hardware, software resources, and provide service to users and applications.
+
+Each component has a specific responsibility.
+
+**1. Kernal**<br>
+The Kernal is the core component of an Operating System. it acts as a bridge between software and hardware.
+
+**Responsibilities:**<br>
+*Manages CPU and processes.*<br>
+*Manages memory.*<br>
+*Handles hardware communication.*<br>
+*Managees system calls.*<br>
+*Controls access to syistem resources.*
+
+**Example:** When an application needs CPU time or memory, the kernal manages the requests.
+
+**2. Process Management**<br>
+Process Management handles the creation, execution, scheduling, and termination of processes.
+
+**Responsibilities:**
+*Create and terminate processes.*<br>
+*Schedule process states.*<br>
+*Manage process states.*<br>
+*Handle process synchronization.*<br>
+*Support inter-process communication (IPC).*
+
+**Example:** Running chrome, VS Code, and a music player simultaneously.
+
+**3. Memory Management**<br>
+Memory Management manages the computer's main memory (RAM).
+
+**Responsibilities:**<br>
+*Allocate memory to processes.*<br>
+*Dallocate memory when it is no longer needed.*<br>
+*Track memory usage.*<br>
+*Manage virtual memory.*<br>
+*Protect the memory space of processes.*
+
+**Example:** When you open VS Code, the OS allocates RAM for its execution.
+
+**4. File System Management**<br>
+File System Management organizes, stores, retrieves, and manages files and directories.
+
+**Responsibilities:**<br>
+*Create and delete files.*<br>
+*Create and manage directories.*<br>
+*Read and write files.*<br>
+*Manage file permissions.*<br>
+*Organize data on storage devices.*
+
+**Example:** Creating a folder, saving a document, or deleting a file.
+
+**5. I/O (Input/Output) Management**<br>
+I/O Management controls and coordinates communication between the computer and input/output devices.
+
+**Responsibilities:**<br>
+*Manage input and output devices.*<br>
+*Coordinate device communication.*<br>
+*Handle I/O requests.*<br>
+*Manage buffering, caching, and spooling.*<br>
+*Work with device drivers.*
+
+**Example:* Reading input from a keyboard or displaying output on a monitor.
+
+**6. Secondary Storage Management**<br>
+This component manages data stored on secondary storage devices such as HDDs and SSDs.
+
+**Responsibilities:**<br>
+*Manage free storage space.*<br>
+*Allocate storage space.*<br>
+*Manage disk scheduling.*<br>
+*Organize data storage.*
+
+**Example:** Saving a video or installing software on an SSD.
+
+**7. Security and Protection**<br>
+This component protects the computer system and its resources against unauthorized access.
+
+**Responsibilities:**<br>
+*User authentication.*<br>
+*Access control.*<br>
+*Process isolation.*<br>
+*File permissions.*<br>
+*Protection of system resources.*
+
+**Example:** Requiring a password to log in to you computer.
+
+**8. Networking Management**<br>
+Networking management handles communication between computers and network devices.
+
+**Responsibilities:**<br>
+*Manage network connections.*<br>
+*Support communication between systems.*<br>
+*Manage network resources.*<br>
+*Provide networking protocols and services.*
+
+**Example:** Connecting your computer to the internet through Wi-Fi.
+
+**9. Command Interpreter / User Interface**<br>
+It provides a way for users to interact with the Operating System.
+
+There are two common types:
+
+***CLI (Command-Line Interface):*** Users interacting using text commands.<br>
+***GUI (Graphical User Interface):*** Users interact using windows, icons, menus, and pointers.
+
+**Example:**<br>
+CLI: *Linux Terminal, Windows Command Prompt.*<br>
+GUI: *Windows Desktop, Ubuntu Desktop.*
+
+
+**Overall architecture of OS componets**<br>
+![os componets](/images/os_components.jpg)
+
+
 ### Important notes:
 
 **Operating System (OS)**<br>
