@@ -38,6 +38,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **2. Application Software:** Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.<br>
 **3. Operating System:** Manages resources and provides services to applications.<br>
 **Hardware:** CPU, RAM, storage devices, keyboard, etc.
+<hr>
 <br><br><br>
 
 
@@ -67,6 +68,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 
 ![responsibilities of os](/images/functions_of_os.webp)
+<hr>
 <br><br><br>
 
 
@@ -80,6 +82,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 ***Multi Programming OS***<br>
 ***Multi Processing OS***<br>
 ***Multi Tasking OS***
+<hr>
 <br><br><br>
 
 
@@ -124,6 +127,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 *Adapt to changing user requirements.*
 
 **Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
+<hr>
 <br><br><br>
 
 
@@ -242,6 +246,7 @@ GUI: *Windows Desktop, Ubuntu Desktop.*
 
 **Overall architecture of OS componets**<br>
 ![os componets](/images/os_components.jpg)
+<hr>
 <br><br><br>
 
 
@@ -251,6 +256,7 @@ GUI: *Windows Desktop, Ubuntu Desktop.*
 *An Operating System is system software that acts as an interface between the user, applications, and computer hardware.*
 
 **Examples:** Windows, Linux, macOS, Android, IOs
+<hr>
 
 **System Software**<br>
 *System Software is a collection of programs that manages computer hardware and provides a platform for running application software.*
@@ -264,6 +270,7 @@ GUI: *Windows Desktop, Ubuntu Desktop.*
 *Language Translators:* compiler, intepreter, Assembler<br>
 *Utility Programs:* Disk Cleanup, Antivirus
 System Libraries: Standard C Library
+<hr>
 
 **Application Software**<br>
 *Application Software is a program or collection of program designed to help users perform specific tasks.*
