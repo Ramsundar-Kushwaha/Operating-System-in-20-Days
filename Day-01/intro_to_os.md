@@ -77,9 +77,9 @@ Operating-System-in-20-Days\images\functions_of_os.webp
 ## Goals of Operating System(OS)
 
 **Convenience**
-*Make computers easier for users to operate.*
-*Provide a simple interface between users and hardware.*
-*Allow users to run applications without understanding hardware details.*
+*Make computers easier for users to operate.*  
+*Provide a simple interface between users and hardware.*  
+*Allow users to run applications without understanding hardware details.*  
 
 
 ## Important notes:
