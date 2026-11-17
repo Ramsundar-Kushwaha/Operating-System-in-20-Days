@@ -86,14 +86,14 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 ### Important notes:
 
 **Operating System (OS)**<br>
-An Operating System is system software that acts as an interface between the user, applications, and computer hardware.
+*An Operating System is system software that acts as an interface between the user, applications, and computer hardware.*
 
 **Examples:** Windows, Linux, macOS, Android, IOs
 
 **System Software**<br>
-System Software is a collection of programs that manages computer hardware and provides a platform for running application software.
+*System Software is a collection of programs that manages computer hardware and provides a platform for running application software.*
 
-It helps the computer operate and allows other software to interact with hardware.
+*It helps the computer operate and allows other software to interact with hardware.*
 
 **Examples:**
 
@@ -104,9 +104,9 @@ It helps the computer operate and allows other software to interact with hardwar
 System Libraries: Standard C Library
 
 **Application Software**<br>
-Application Software is a program or collection of program designed to help users perform specific tasks.
+*Application Software is a program or collection of program designed to help users perform specific tasks.*
 
-it runs on top of system software and uses the services provided by the operating system.
+*it runs on top of system software and uses the services provided by the operating system.*
 
 **Examples:**
 
@@ -117,7 +117,7 @@ it runs on top of system software and uses the services provided by the operatin
 *Entertainment:* VLC, Games<br>
 *Communication:* WhatsApp, Telegram
 
-##### Main responsibilities:
+**Main responsibilities:**<br>
 *1.* Performs specific user tasks.<br>
 *2.* Provides a user-friendly interface.<br>
 *3.* Uses OS service to access hardware and system resources.
