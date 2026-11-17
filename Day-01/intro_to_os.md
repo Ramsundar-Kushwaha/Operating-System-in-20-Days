@@ -17,10 +17,10 @@ Imagine you have a computer with:<br>
 without an Operating System, managing these components and running applications would be extremely difficult.
 
 #### For example:
-##### **When you open Chrome, the OS allocates memory to it.**
-##### **When you play music, the OS manages audio output.**
-##### **When you save a file, the OS manages storage operations.**
-##### **When you run multiple applications, the OS manages CPU time.**
+**When you open Chrome, the OS allocates memory to it.**<br>
+**When you play music, the OS manages audio output.**<br>
+**When you save a file, the OS manages storage operations.**<br>
+**When you run multiple applications, the OS manages CPU time.**
 
 *without an Operating System we have to manages these resources through our application programs, which makes our application program heavy/bulky and difficult to maintain.*
 
@@ -28,6 +28,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 
 **An Operating System sits between applications/users and hardware.**
+
 ![os interface](/images/os_interface.webp)
 
 #### The communication happens in the following way:
@@ -39,29 +40,29 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 ### Main responsibility of an Operating System
 
-#### **Process Management**
+**Process Management**<br>
 *Manages running programs and processes.*
 
-#### **Memory Management**
+**Memory Management**<br>
 *Allocates and deallocates RAM.*
 
-#### **File Management**
+**File Management*<br>*
 *Organizes and manages files and directories.*
 
-#### **Device Management**
+**Device Management**<br>
 *Controls hardware devices through drivers.*
 
-#### **CPU Scheduling**
+**CPU Scheduling**<br>
 *Decides which process gets CPU time.*
 
-#### **Security & Protection**
+**Security & Protection**<br>
 *Protects system resources and user data.*
 
-#### **I/O Management**
+**I/O Management**<br>
 *Manages input and output operations.*
 
 
-[responsibilities of os](/images/functions_of_os.webp)
+![responsibilities of os](/images/functions_of_os.webp)
 
 
 ### Types of Operating System
@@ -76,7 +77,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 ### Goals of Operating System(OS)
 
-#### **Convenience**
+**Convenience**<br>
 *Make computers easier for users to operate.*<br>
 *Provide a simple interface between users and hardware.*<br>
 *Allow users to run applications without understanding hardware details.*
@@ -84,25 +85,25 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 ### Important notes:
 
-#### **Operating System (OS)**  
+**Operating System (OS)**<br>
 An Operating System is system software that acts as an interface between the user, applications, and computer hardware.
 
 **Examples:** Windows, Linux, macOS, Android, IOs
 
-#### **System Software**
+**System Software**<br>
 System Software is a collection of programs that manages computer hardware and provides a platform for running application software.
 
 It helps the computer operate and allows other software to interact with hardware.
 
 **Examples:**
 
-**Operating Systems:** Windows, Linux etc.<br>
-**Device Drivers:** Printer driver, graphics driver<br>
-**Language Translators:** compiler, intepreter, Assembler<br>
-**Utility Programs:** Disk Cleanup, Antivirus
+*Operating Systems:* Windows, Linux etc.<br>
+*Device Drivers:* Printer driver, graphics driver<br>
+*Language Translators:* compiler, intepreter, Assembler<br>
+*Utility Programs:* Disk Cleanup, Antivirus
 System Libraries: Standard C Library
 
-#### **Application Software**
+**Application Software**<br>
 Application Software is a program or collection of program designed to help users perform specific tasks.
 
 it runs on top of system software and uses the services provided by the operating system.
