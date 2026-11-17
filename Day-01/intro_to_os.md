@@ -4,7 +4,7 @@ An Operating System (OS) is system software that acts as an interface between th
 In simple words, an Operating System helps users or applications communicate with computer hardware without needing to control the hardware directly.
 
 #### **Examples of Operating Systems**
-Operating-System-in-20-Days\images\examples_of_os.webp
+![exampel of OS](Operating-System-in-20-Days\images\examples_of_os.webp)
 
 ### 2. Why do we need an Operating System?
 Imagine you have a computer with:<br>
@@ -28,7 +28,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 
 **An Operating System sits between applications/users and hardware.**
-Operating-System-in-20-Days\images\os_interface.webp
+![os interface](Operating-System-in-20-Days\images\os_interface.webp)
 
 #### The communication happens in the following way:
 
@@ -61,7 +61,7 @@ Operating-System-in-20-Days\images\os_interface.webp
 *Manages input and output operations.*
 
 
-Operating-System-in-20-Days\images\functions_of_os.webp
+[responsibilities of os](Operating-System-in-20-Days\images\functions_of_os.webp)
 
 
 ### Types of Operating System
