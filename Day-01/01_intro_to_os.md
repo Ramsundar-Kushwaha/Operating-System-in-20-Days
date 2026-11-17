@@ -19,10 +19,10 @@ Imagine you have a computer with:<br>
 without an Operating System, managing these components and running applications would be extremely difficult.
 
 #### For example:
-When you open Chrome, the OS allocates memory to it.*<br>
+When you open Chrome, the OS allocates memory to it.<br>
 When you play music, the OS manages audio output.<br>
-When you save a file, the OS manages storage operations.*<br>
-When you run multiple applications, the OS manages CPU time.*
+When you save a file, the OS manages storage operations.<br>
+When you run multiple applications, the OS manages CPU time.
 
 *without an Operating System we have to manages these resources through our application programs, which makes our application program heavy/bulky and difficult to maintain.*
 
