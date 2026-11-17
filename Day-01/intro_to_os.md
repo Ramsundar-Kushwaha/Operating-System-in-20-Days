@@ -6,6 +6,8 @@ In simple words, an Operating System helps users or applications communicate wit
 #### **Examples of Operating Systems**
 ![exampel of OS](/images/examples_of_os.webp)
 
+
+
 ### 2. Why do we need an Operating System?
 Imagine you have a computer with:<br>
 **CPU**<br>
@@ -38,7 +40,9 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **3. Operating System:** Manages resources and provides services to applications.<br>
 **Hardware:** CPU, RAM, storage devices, keyboard, etc.
 
-### Main responsibility of an Operating System
+
+
+### 3. Main responsibility of an Operating System
 
 **Process Management**<br>
 *Manages running programs and processes.*
@@ -65,7 +69,8 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 ![responsibilities of os](/images/functions_of_os.webp)
 
 
-### Types of Operating System
+
+### 4. Types of Operating System
 ***Batch OS***<br>
 ***Time sharing OS***<br>
 ***Distrubuted OS***<br>
@@ -75,12 +80,15 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 ***Multi Processing OS***<br>
 ***Multi Tasking OS***
 
-### Goals of Operating System(OS)
+
+
+### 5. Goals of Operating System(OS)
 
 **Convenience**<br>
 *Make computers easier for users to operate.*<br>
 *Provide a simple interface between users and hardware.*<br>
 *Allow users to run applications without understanding hardware details.*
+
 
 
 ### Important notes:
