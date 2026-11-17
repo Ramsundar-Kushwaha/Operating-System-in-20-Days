@@ -7,7 +7,6 @@ In simple words, an Operating System helps users or applications communicate wit
 ![exampel of OS](/images/examples_of_os.webp)
 
 
-
 ### 2. Why do we need an Operating System?
 Imagine you have a computer with:<br>
 **CPU**<br>
@@ -39,6 +38,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **2. Application Software:** Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.<br>
 **3. Operating System:** Manages resources and provides services to applications.<br>
 **Hardware:** CPU, RAM, storage devices, keyboard, etc.
+<br><br><br>
 
 
 
@@ -67,6 +67,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 
 ![responsibilities of os](/images/functions_of_os.webp)
+<br><br><br>
 
 
 
@@ -79,6 +80,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 ***Multi Programming OS***<br>
 ***Multi Processing OS***<br>
 ***Multi Tasking OS***
+<br><br><br>
 
 
 
@@ -122,6 +124,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 *Adapt to changing user requirements.*
 
 **Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
+<br><br><br>
 
 
 
@@ -239,6 +242,7 @@ GUI: *Windows Desktop, Ubuntu Desktop.*
 
 **Overall architecture of OS componets**<br>
 ![os componets](/images/os_components.jpg)
+<br><br><br>
 
 
 ### Important notes:
