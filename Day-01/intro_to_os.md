@@ -28,7 +28,7 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 
 **An Operating System sits between applications/users and hardware.**
-![os interface](Operating-System-in-20-Days/images/os_interface.webp)
+![os interface](/images/os_interface.webp)
 
 #### The communication happens in the following way:
 
