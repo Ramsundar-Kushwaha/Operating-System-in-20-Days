@@ -65,14 +65,14 @@ Operating-System-in-20-Days\images\functions_of_os.webp
 
 
 ### Types of Operating System
-#### *Batch OS*
-#### *Time sharing OS*
-#### *Distrubuted OS*
-#### *Network OS*
-#### *Real Time OS*
-#### *Multi Programming OS*
-#### *Multi Processing OS*
-#### *Multi Tasking OS*
+***Batch OS***<br>
+***Time sharing OS***<br>
+***Distrubuted OS***<br>
+***Network OS***<br>
+***Real Time OS***<br>
+***Multi Programming OS***<br>
+***Multi Processing OS***<br>
+***Multi Tasking OS***
 
 ### Goals of Operating System(OS)
 
