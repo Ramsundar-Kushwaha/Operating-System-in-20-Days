@@ -22,7 +22,7 @@ without an Operating System, managing these components and running applications 
 ##### **When you save a file, the OS manages storage operations.**
 ##### **When you run multiple applications, the OS manages CPU time.**
 
-without an Operating System we have to manages these resources through our application programs, which makes our application program heavy/bulky and difficult to maintain.
+*without an Operating System we have to manages these resources through our application programs, which makes our application program heavy/bulky and difficult to maintain.*
 
 Therefor, an OS makes computer system easier to use and manages their resources efficiently.
 
@@ -30,11 +30,11 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **An Operating System sits between applications/users and hardware.**
 Operating-System-in-20-Days\images\os_interface.webp
 
-The communication happens in the following way:
+#### The communication happens in the following way:
 
-**1. User:** interacts with the computer.
-**2. Application Software:** Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.
-**3. Operating System:** Manages resources and provides services to applications.
+**1. User:** interacts with the computer.<br>
+**2. Application Software:** Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.<br>
+**3. Operating System:** Manages resources and provides services to applications.<br>
 **Hardware:** CPU, RAM, storage devices, keyboard, etc.
 
 ### Main responsibility of an Operating System
@@ -65,19 +65,19 @@ Operating-System-in-20-Days\images\functions_of_os.webp
 
 
 ### Types of Operating System
-#### **Batch OS**
-#### **Time sharing OS**
-#### **Distrubuted OS**
-#### **Network OS**
-#### **Real Time OS**
-#### **Multi Programming OS**
-#### **Multi Processing OS**
-#### **Multi Tasking OS**
+#### *Batch OS*
+#### *Time sharing OS*
+#### *Distrubuted OS*
+#### *Network OS*
+#### *Real Time OS*
+#### *Multi Programming OS*
+#### *Multi Processing OS*
+#### *Multi Tasking OS*
 
 ### Goals of Operating System(OS)
 
 #### **Convenience**
-*Make computers easier for users to operate.*<br>  
+*Make computers easier for users to operate.*<br>
 *Provide a simple interface between users and hardware.*<br>
 *Allow users to run applications without understanding hardware details.*
 
