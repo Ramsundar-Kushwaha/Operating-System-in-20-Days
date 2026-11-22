@@ -48,3 +48,8 @@ Some examples of tasks suitable for batch processing:<br>
 *4. University result generation.*<br>
 *5. Bulk data processing.*<br>
 *6. Monthly report generation.*
+
+<hr>
+
+**Example:**
+*A bank collects 10,000 customer transaction at the end of the day and processes them together without requiring users to interact with each transaction.*
