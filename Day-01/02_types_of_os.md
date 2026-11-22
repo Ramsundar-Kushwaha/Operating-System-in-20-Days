@@ -1,4 +1,4 @@
-### Types of Operating System
+## Types of Operating System
 Operating Systems (OS) are classified into different types based on how they manage processes, users, tasks and computer resources.
 
 <hr>
