@@ -74,7 +74,10 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 5. Real Time OS<br>
 6. Multi-Programming OS<br>
 7. Multi-Processing OS<br>
-8. Multi-Tasking OS
+8. Multi-Tasking OS<br>
+9. Multi-User OS<br>
+10. Mobile OS<br>
+11. Embedded OS
 
 <hr>
 
