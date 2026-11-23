@@ -53,6 +53,7 @@ Operating Systems (OS) are classified into different types based on how they man
 Types:<br>
     *1. Hard Real-Time OS: Missing a deadline is unnacceptable.*<br>
     *2. Soft Real-Time OS: Occasional deadline misses are acceptable.*<br>
+
 *III. Example: VxWorks, QNX, FreeRTOS.*
 
 <hr>
@@ -87,6 +88,7 @@ Types:<br>
 
 ### Important concepts to understand
 Some types are closely related, but they are not the same:<br>
+
 **Multiprogramming vs Multitasking:**<br>
 *I. Multiprogramming focuses on keeping the CPU busy*<br>
 *II. Multitasking focuses on switching between tasks to provide responsive execution.*

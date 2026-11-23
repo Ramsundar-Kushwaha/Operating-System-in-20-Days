@@ -9,36 +9,33 @@ In simple words, an Operating System helps users or applications communicate wit
 
 ### 2. Why do we need an Operating System?
 Imagine you have a computer with:<br>
-*CPU*<br>
-*RAM*<br>
-*HARD disk/SSD*<br>
-*Keyboard and Mouse*<br>
-*Monitor*
+*I. CPU*<br>
+*II. RAM*<br>
+*III. HARD disk/SSD*<br>
+*IV. Keyboard and Mouse*<br>
+*V. Monitor*
 
 without an Operating System, managing these components and running applications would be extremely difficult.
 
 #### For example:
-When you open Chrome, the OS allocates memory to it.<br>
-When you play music, the OS manages audio output.<br>
-When you save a file, the OS manages storage operations.<br>
-When you run multiple applications, the OS manages CPU time.
+*I. When you open Chrome, the OS allocates memory to it.*<br>
+*II. When you play music, the OS manages audio output.*<br>
+*III. When you save a file, the OS manages storage operations.*<br>
+*IV. When you run multiple applications, the OS manages CPU time.*
 
-*without an Operating System we have to manages these resources through our application programs, which makes our application program heavy/bulky and difficult to maintain.*
+without an Operating System we have to manages these resources through our application programs, which makes our application program heavy/bulky and difficult to maintain.
 
 Therefor, an OS makes computer system easier to use and manages their resources efficiently.
 
-
-**An Operating System sits between applications/users and hardware.**
 
 ![os interface](/images/os_interface.webp)
 
 #### The communication happens in the following way:
 
-**1. User:** interacts with the computer.<br>
-**2. Application Software:** Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.<br>
-**3. Operating System:** Manages resources and provides services to applications.<br>
-**Hardware:** CPU, RAM, storage devices, keyboard, etc.
-<br><br><br>
+**I. User:** *interacts with the computer.*<br>
+**II. Application Software:** *Programs such as Chrome, VS Code, Compiler, Assembler, Text editor, Databases and games etc.*<br>
+**III. Operating System:** *Manages resources and provides services to applications.*<br>
+**IV. Hardware:** *CPU, RAM, storage devices, keyboard, etc.*
 
 <hr>
 
@@ -65,63 +62,60 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 **I/O Management**<br>
 *Manages input and output operations.*
 
-
 ![responsibilities of os](/images/functions_of_os.webp)
-<br><br><br>
 
 <hr>
 
 ### 4. Types of Operating System
-***Batch OS***<br>
-***Time sharing OS***<br>
-***Distrubuted OS***<br>
-***Network OS***<br>
-***Real Time OS***<br>
-***Multi Programming OS***<br>
-***Multi Processing OS***<br>
-***Multi Tasking OS***
-<br><br><br>
+1. Batch OS<br>
+2. Time sharing OS<br>
+3. Distrubuted OS<br>
+4. Network OS<br>
+5. Real Time OS<br>
+6. Multi-Programming OS<br>
+7. Multi-Processing OS<br>
+8. Multi-Tasking OS
 
 <hr>
 
 ### 5. Goals of Operating System(OS)
 
 **1. Convenience**<br>
-*Make computers easier for users to operate.*<br>
-*Provide a simple interface between users and hardware.*<br>
-*Allow users to run applications without understanding hardware details.*
+*I. Make computers easier for users to operate.*<br>
+*II. Provide a simple interface between users and hardware.*<br>
+*III. Allow users to run applications without understanding hardware details.*
 
 **2. Efficiency**<br>
-*Utilize computer resource efficiently.*<br>
-*Manage CPU, RAM, storage, and I/O devices.*<br>
-*Minimize resource wastage and improve system performance.*
+*I. Utilize computer resource efficiently.*<br>
+*II. Manage CPU, RAM, storage, and I/O devices.*<br>
+*III. Minimize resource wastage and improve system performance.*
 
 **Example:** CPU scheduling allows multiple processes to share CPU time efficiently.
 
 **3. Resource Management**<br>
-*Manage and distribute system resources among different programs.*<br>
-*Allocate and deallocate memory when required.*<br>
-*Coordinate access to hardware devices.*
+*I. Manage and distribute system resources among different programs.*<br>
+*II. Allocate and deallocate memory when required.*<br>
+*III. Coordinate access to hardware devices.*
 
 **Example:** When multiple applications are running, the OS manages their CPU and memory requirements.
 
 **4. Reliability and stability**<br>
-*Ensure the system operates correctly and consistently.*<br>
-*Handle errors and prevent application failures from affecting the entire system.*
+*I. Ensure the system operates correctly and consistently.*<br>
+*II. Handle errors and prevent application failures from affecting the entire system.*
 
 **Example:** if one application crashes, the OS should prevent it from unnecessary crashing the entire computer.
 
 **5. Security and Protection:**<br>
-*Protect system resources and user data from unauthorized access.*<br>
-*Provide authentication and access control.*<br>
-*Isolate processes to prevent unwanted interference.*
+*I. Protect system resources and user data from unauthorized access.*<br>
+*II. Provide authentication and access control.*<br>
+*III. Isolate processes to prevent unwanted interference.*
 
 **Example:** A user account password prevent unauthorized users from accessing your computer.
 
 **6. Ability to Evolve**<br>
-*Support new hardware and technologies.*<br>
-*Allow new features and functionalities to be added.*<br>
-*Adapt to changing user requirements.*
+*I. Support new hardware and technologies.*<br>
+*II. Allow new features and functionalities to be added.*<br>
+*III. Adapt to changing user requirements.*
 
 **Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
 <br><br><br>
@@ -145,6 +139,8 @@ The Kernal is the core component of an Operating System. it acts as a bridge bet
 
 **Example:** When an application needs CPU time or memory, the kernal manages the requests.
 
+<hr>
+
 **2. Process Management**<br>
 Process Management handles the creation, execution, scheduling, and termination of processes.
 
@@ -156,6 +152,8 @@ Process Management handles the creation, execution, scheduling, and termination 
 *Support inter-process communication (IPC).*
 
 **Example:** Running chrome, VS Code, and a music player simultaneously.
+
+<hr>
 
 **3. Memory Management**<br>
 Memory Management manages the computer's main memory (RAM).
@@ -169,6 +167,8 @@ Memory Management manages the computer's main memory (RAM).
 
 **Example:** When you open VS Code, the OS allocates RAM for its execution.
 
+<hr>
+
 **4. File System Management**<br>
 File System Management organizes, stores, retrieves, and manages files and directories.
 
@@ -181,6 +181,8 @@ File System Management organizes, stores, retrieves, and manages files and direc
 
 **Example:** Creating a folder, saving a document, or deleting a file.
 
+<hr>
+
 **5. I/O (Input/Output) Management**<br>
 I/O Management controls and coordinates communication between the computer and input/output devices.
 
@@ -191,7 +193,9 @@ I/O Management controls and coordinates communication between the computer and i
 *Manage buffering, caching, and spooling.*<br>
 *Work with device drivers.*
 
-**Example:* Reading input from a keyboard or displaying output on a monitor.
+*Example:* Reading input from a keyboard or displaying output on a monitor.
+
+<hr>
 
 **6. Secondary Storage Management**<br>
 This component manages data stored on secondary storage devices such as HDDs and SSDs.
@@ -203,6 +207,8 @@ This component manages data stored on secondary storage devices such as HDDs and
 *Organize data storage.*
 
 **Example:** Saving a video or installing software on an SSD.
+
+<hr>
 
 **7. Security and Protection**<br>
 This component protects the computer system and its resources against unauthorized access.
@@ -216,6 +222,8 @@ This component protects the computer system and its resources against unauthoriz
 
 **Example:** Requiring a password to log in to you computer.
 
+<hr>
+
 **8. Networking Management**<br>
 Networking management handles communication between computers and network devices.
 
@@ -227,22 +235,21 @@ Networking management handles communication between computers and network device
 
 **Example:** Connecting your computer to the internet through Wi-Fi.
 
+<hr>
+
 **9. Command Interpreter / User Interface**<br>
 It provides a way for users to interact with the Operating System.
 
 There are two common types:
 
-***CLI (Command-Line Interface):*** Users interacting using text commands.<br>
-***GUI (Graphical User Interface):*** Users interact using windows, icons, menus, and pointers.
+**1. CLI (Command-Line Interface):** *Users interacting using text commands.*<br>
+**2. GUI (Graphical User Interface):** *Users interact using windows, icons, menus, and pointers.*
 
 **Example:**<br>
 CLI: *Linux Terminal, Windows Command Prompt.*<br>
 GUI: *Windows Desktop, Ubuntu Desktop.*
 
-
-**Overall architecture of OS componets**<br>
 ![os componets](/images/os_components.jpg)
-<br><br><br>
 
 <hr>
 
@@ -261,28 +268,27 @@ GUI: *Windows Desktop, Ubuntu Desktop.*
 
 **Examples:**
 
-*Operating Systems:* Windows, Linux etc.<br>
-*Device Drivers:* Printer driver, graphics driver<br>
-*Language Translators:* compiler, intepreter, Assembler<br>
-*Utility Programs:* Disk Cleanup, Antivirus
-System Libraries: Standard C Library
+*I. Operating Systems: Windows, Linux etc.*<br>
+*II. Device Drivers: Printer driver, graphics driver*<br>
+*III. Language Translators: compiler, intepreter, Assembler*<br>
+*IV. Utility Programs: Disk Cleanup, Antivirus System Libraries: Standard C Library*
+
 <hr>
 
 **Application Software**<br>
-*Application Software is a program or collection of program designed to help users perform specific tasks.*
-
+*Application Software is a program or collection of program designed to help users perform specific tasks.*<br>
 *it runs on top of system software and uses the services provided by the operating system.*
 
 **Examples:**
 
-*Text Editing:* MS Word, Notepad<br>
-*Web Browsing:* Chrome, Firefor<br>
-*Image Editing:* Photoshop, GIMP<br>
-*Programming:* VS Code, PyCharm<br>
-*Entertainment:* VLC, Games<br>
-*Communication:* WhatsApp, Telegram
+*I. Text Editing: MS Word, Notepad*<br>
+*II. Web Browsing: Chrome, Firefor*<br>
+*III. Image Editing: Photoshop, GIMP*<br>
+*IV. Programming: VS Code, PyCharm*<br>
+*V. Entertainment: VLC, Games*<br>
+*VI. Communication: WhatsApp, Telegram*
 
 **Main responsibilities:**<br>
-*1.* Performs specific user tasks.<br>
-*2.* Provides a user-friendly interface.<br>
-*3.* Uses OS service to access hardware and system resources.
+*I. Performs specific user tasks.*<br>
+*II. Provides a user-friendly interface.*<br>
+*III. Uses OS service to access hardware and system resources.*

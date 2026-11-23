@@ -1,16 +1,17 @@
 ### 1. Batch Operating Systems
 A Batch Operating System is an operating system that collects similar jobs, groups them into batches, and executes them one after another without requiring direct user interaction during execution.
 
-In simple word, users prepare their jobs offline (usually using punch cards or files) and submit them to the operatior. operator groups the similar tasks into the batches based on their requirement and submit the batches to OS without direct user involvment and the batch are arranged in the queue (usually the ready queue) for execution.
+In simple word, users prepare their jobs offline (usually using punch cards or files) and submit them to the operator. operator groups the similar tasks into the batches based on their requirement and submit the batches to OS without direct user involvment and the batch are arranged in the queue (usually the ready queue) for execution.
 
 **Example:**<br>
 Let's understand with a real-world example.<br>
 Suppose a university needs to generate salary slips for 500 employees.<br>
-Instead of generating each salary slip manually, the university submits all 500 salary records to the computer.*<br>
+Instead of generating each salary slip manually, the university submits all 500 salary records to the computer.<br>
 
 <hr>
 
 **The Batch OS works like this:**<br>
+
 Step 1: Collect jobs<br>
 *Salary records of 500 employees*
 
