@@ -139,7 +139,6 @@ The Kernal is the core component of an Operating System. it acts as a bridge bet
 
 **Example:** When an application needs CPU time or memory, the kernal manages the requests.
 
-<hr>
 
 **2. Process Management**<br>
 Process Management handles the creation, execution, scheduling, and termination of processes.
@@ -153,7 +152,6 @@ Process Management handles the creation, execution, scheduling, and termination 
 
 **Example:** Running chrome, VS Code, and a music player simultaneously.
 
-<hr>
 
 **3. Memory Management**<br>
 Memory Management manages the computer's main memory (RAM).
@@ -167,7 +165,6 @@ Memory Management manages the computer's main memory (RAM).
 
 **Example:** When you open VS Code, the OS allocates RAM for its execution.
 
-<hr>
 
 **4. File System Management**<br>
 File System Management organizes, stores, retrieves, and manages files and directories.
@@ -181,7 +178,6 @@ File System Management organizes, stores, retrieves, and manages files and direc
 
 **Example:** Creating a folder, saving a document, or deleting a file.
 
-<hr>
 
 **5. I/O (Input/Output) Management**<br>
 I/O Management controls and coordinates communication between the computer and input/output devices.
@@ -195,7 +191,6 @@ I/O Management controls and coordinates communication between the computer and i
 
 *Example:* Reading input from a keyboard or displaying output on a monitor.
 
-<hr>
 
 **6. Secondary Storage Management**<br>
 This component manages data stored on secondary storage devices such as HDDs and SSDs.
@@ -208,7 +203,6 @@ This component manages data stored on secondary storage devices such as HDDs and
 
 **Example:** Saving a video or installing software on an SSD.
 
-<hr>
 
 **7. Security and Protection**<br>
 This component protects the computer system and its resources against unauthorized access.
@@ -222,7 +216,6 @@ This component protects the computer system and its resources against unauthoriz
 
 **Example:** Requiring a password to log in to you computer.
 
-<hr>
 
 **8. Networking Management**<br>
 Networking management handles communication between computers and network devices.
@@ -235,7 +228,6 @@ Networking management handles communication between computers and network device
 
 **Example:** Connecting your computer to the internet through Wi-Fi.
 
-<hr>
 
 **9. Command Interpreter / User Interface**<br>
 It provides a way for users to interact with the Operating System.
