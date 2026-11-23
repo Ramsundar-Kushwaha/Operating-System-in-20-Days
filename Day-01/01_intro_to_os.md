@@ -118,7 +118,6 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 *III. Adapt to changing user requirements.*
 
 **Example:** An OS can support new processors, storage devices, and hardware drivers through updates.
-<br><br><br>
 
 <hr>
 
