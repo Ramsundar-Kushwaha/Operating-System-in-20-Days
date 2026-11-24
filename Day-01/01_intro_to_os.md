@@ -68,16 +68,16 @@ Therefor, an OS makes computer system easier to use and manages their resources 
 
 ### 4. Types of Operating System
 1. Batch OS<br>
-2. Time sharing OS<br>
-3. Distrubuted OS<br>
-4. Network OS<br>
+2. Multi-Programming OS<br>
+3. Time sharing OS<br>
+4. Multi-User OS<br>
 5. Real Time OS<br>
-6. Multi-Programming OS<br>
-7. Multi-Processing OS<br>
+6. Multi-Processing OS<br>
+7. Network OS<br>
 8. Multi-Tasking OS<br>
-9. Multi-User OS<br>
-10. Mobile OS<br>
-11. Embedded OS
+9. Distrubuted OS<br>
+10. Embedded OS
+11. Mobile OS<br>
 
 <hr>
 
