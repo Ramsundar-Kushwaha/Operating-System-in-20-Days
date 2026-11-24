@@ -84,7 +84,7 @@ In a Batch OS:
 
 The Problem: *You cannot interact with the program while it is executing. You may have to wait a long time just to discover a small error.*
 
-![Batch OS](/Operating-System-in-20-Days/images/batch_os.jpg)
+![Batch OS](/images/batch_os.jpg)
 
 
 #### 2. Why was Time-Sharing OS introduced?
@@ -98,4 +98,4 @@ To solve these problems:
 
 Time-Sharing OS addressed these requirements by dividing CPU time into small time slices and sharing it among multiple users or processes.
 
-![Time-Sharing OS](/Operating-System-in-20-Days/images/time_sharing_os.jpg)
+![Time-Sharing OS](/images/time_sharing_os.jpg)
