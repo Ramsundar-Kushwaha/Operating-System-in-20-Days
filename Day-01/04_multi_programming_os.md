@@ -45,10 +45,10 @@ This Process continues until all programs finish execution.
 
 ### Characterstics of Multiprogramming OS
 
-**1. Multiple Programs in RAM:** Keeps several programs in main memory simultaneously.<br>
-**CPU Scheduling:** Selects which ready program should execute next.<br>
-**I/O Management:** Allows CPU execution to continue while another program performs I/O.<br>
-**Automatic Switching:** The OS switches execution between programs based on their states and scheduling decisions.
+**I. Multiple Programs in RAM:** Keeps several programs in main memory simultaneously.<br>
+**II. CPU Scheduling:** Selects which ready program should execute next.<br>
+**III. I/O Management:** Allows CPU execution to continue while another program performs I/O.<br>
+**IV. Automatic Switching:** The OS switches execution between programs based on their states and scheduling decisions.
 
 <hr>
 
