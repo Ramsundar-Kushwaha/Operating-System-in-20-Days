@@ -30,10 +30,10 @@ The CPU gives each process a small amount of time called a Time Slice (Time Quan
 
 <hr>
 
-### Charaterstics of Time-Sharing OS**
+### Charaterstics of Time-Sharing OS
 
 ***I. Multiple Users:*** *Supports multiple users accessing the system.*<br>
-***II. Time Silicing:*** *CPU time is divided into small intervals.*<br>
+***II. Time Slicing:*** *CPU time is divided into small intervals.*<br>
 ***III. Quick Response:*** *Provides quick responses to user requests.*<br>
 ***IV. Context Switching:*** *Switches between processes frequently.*<br>
 ***V. Resource Sharing:*** *Multiple users share CPU, memory, and other resources.*<br>
