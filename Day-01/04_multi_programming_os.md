@@ -16,10 +16,10 @@ Let's understand the problem with an earlier system.
 
 Suppose a computer is executing only one program.
 
-Program 'A' needs the CPU to perform calculations.*<br>
+Program 'A' needs the CPU to perform calculations.<br>
 After some calculations, Program 'A' requests data from a hard disk.<br>
-The CPU must wait while the disk provides the data.*<br>
-During this waiting period, the CPU remains idle if no other work is available.*
+The CPU must wait while the disk provides the data.<br>
+During this waiting period, the CPU remains idle if no other work is available.
 
 ![cpu status](/images/cpu_idle.png)
 
