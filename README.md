@@ -32,11 +32,11 @@ Throughout these 20 days, I will document my learning journey by creating struct
 Navigate through the topics covered during this 20-day challenge.
 
 ### Day 1 – Introduction to Operating Systems
-- [Introduction to Operating Systems](/Day-01/01_intro_to_os.md)
-- [Types of Operating System](/Day-01/02_types_of_os.md)
+- [Introduction to Operating Systems](/Day-01/01_intro_to_os.md) []
+- [Types of Operating System](/Day-01/02_types_of_os.md) []
 - [Batch Operating System](Day-01/03_batch_os.md)
-- [Multiprogramming Operating System](/Day-01/04_multi_programming_os.md)
-- [Time-Sharing Operating System](/Day-01/05_time_sharing_os.md)
+- [Multiprogramming Operating System](/Day-01/04_multi_programming_os.md) []
+- [Time-Sharing Operating System](/Day-01/05_time_sharing_os.md) []
 
 ### Day 2 – [Coming Soon](#)
 
