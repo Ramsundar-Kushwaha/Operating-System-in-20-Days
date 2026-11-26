@@ -37,6 +37,7 @@ Navigate through the topics covered during this 20-day challenge.
 - [Batch Operating System](Day-01/03_batch_os.md)
 - [Multiprogramming Operating System](/Day-01/04_multi_programming_os.md)
 - [Time-Sharing Operating System](/Day-01/05_time_sharing_os.md)
+- [Multiuser Operating System](/Day-01/06_multi_user_os.md)
 
 ### Day 2 – [Coming Soon](#)
 
