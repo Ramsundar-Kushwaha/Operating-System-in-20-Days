@@ -1,4 +1,4 @@
-# Operating System in 20 Days 🚀
+# Operating System in 20 Days
 
 Welcome to my **20-Day Operating System Learning Challenge!**
 
@@ -6,7 +6,7 @@ The goal of this challenge is to understand Operating System concepts systematic
 
 Throughout these 20 days, I will document my learning journey by creating structured notes, explaining concepts in my own words, writing examples, and exploring how operating systems work behind the scenes.
 
-## 🎯 Objectives
+## Objectives
 
 - Build a strong foundation in Operating Systems.
 - Understand how an OS manages hardware and software resources.
@@ -15,7 +15,7 @@ Throughout these 20 days, I will document my learning journey by creating struct
 - Understand the internal working of operating systems.
 - Maintain consistent learning through daily documentation.
 
-## 📚 Learning Approach
+## Learning Approach
 
 - Learn one or more topics every day.
 - Create easy-to-understand notes.
@@ -27,7 +27,7 @@ Throughout these 20 days, I will document my learning journey by creating struct
 
 ---
 
-## 📑 Index
+## Index
 
 Navigate through the topics covered during this 20-day challenge.
 
@@ -77,8 +77,8 @@ Navigate through the topics covered during this 20-day challenge.
 
 ### Day 20 – [Coming Soon](#)
 
-## 💡 Final Goal
+## Final Goal
 
 By the end of this challenge, I aim to develop a solid understanding of Operating Systems, their architecture, core components, and the mechanisms that allow software and hardware to work together.
 
-**Let's understand what happens behind the screen!** 💻
+**Let's understand what happens behind the screen!**
