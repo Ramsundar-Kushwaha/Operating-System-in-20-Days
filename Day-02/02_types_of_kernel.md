@@ -142,7 +142,7 @@ The computer system can be understood using three main layers:
 **2. Kernel Space:** Where the kernel performs privileged(kernel mode's) operations and manages system resources.<br>
 **3. Hardware:** Physical components such as CPU, RAM, SSD, Keyboard and mouse.
 
-#### Stemp-by-Stemp Working of kernel
+#### Step-by-Step Working of kernel
 
 Let's understand the working using an example.
 
